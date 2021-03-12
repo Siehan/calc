@@ -1,5 +1,3 @@
-// constants.js
-
 const ADD_OPERATOR = "+";
 const SUB_OPERATOR = "-";
 const MUL_OPERATOR = "*";
